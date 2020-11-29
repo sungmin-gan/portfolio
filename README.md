@@ -1,6 +1,4 @@
-# Welcome to my portfolio!
-
-A short description of my works:
+# A short description of my works:
 
 -> TutorTree Samples
 
