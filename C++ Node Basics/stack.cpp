@@ -1,11 +1,3 @@
-//
-//  main.cpp
-//  Stack_ReverseAndCopy
-//
-//  Created by Sungmin Gan on 4/8/19.
-//  Copyright © 2019 Sungmin Gan. All rights reserved.
-//
-
 #include <iostream>
 using namespace std;
 
