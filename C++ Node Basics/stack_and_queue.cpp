@@ -1,11 +1,3 @@
-//
-//  main.cpp
-//  Stack_n_Queue
-//
-//  Created by Sungmin Gan on 2/24/19.
-//  Copyright © 2019 Sungmin Gan. All rights reserved.
-//
-
 #include <iostream>
 
 using namespace std;
