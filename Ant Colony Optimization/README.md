@@ -1,5 +1,3 @@
-[Check Out the Code Here!](https://github.com/sungmin-gan/AntColonyOptimization/blob/master/ACOvsTSP.py)
-
 **What is the Traveling Salesman Problem?**
 The Traveling Salesman Problem asks the following question: "Given a list of cities, and the distances between them, what is the shortest route one can take to visit every city once - and only once - and return to the home city at the end of the trip?" 
 
@@ -12,5 +10,3 @@ The ants used in this AI program have 2 distinct advantages over real ants. One,
 ![](https://github.com/sungmin-gan/AntColonyOptimization/blob/master/ACO.gif)
 
 Routes become thicker as they are used more and more, and they change from red, to yellow, to green when the colony starts establishing that route permanently.
-
-[Check Out the Code Here!](https://github.com/sungmin-gan/AntColonyOptimization/blob/master/ACOvsTSP.py)
