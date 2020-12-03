@@ -2,7 +2,7 @@
 
 -> TutorTree Samples
 
-[TutorTree](https://tutortree.com) is a web app that acts as a "matchmaker" between students who need tutoring, and those who can offer it within the same university. As a web developer intern, I helped develop CDN injections in JavaScript for things like rendering pages, error checking forms, and streamlining state representation processes. My work also included creating backend functions in Python to automate features like email campaigns. 
+[TutorTree](https://tutortree.com) is a web app that acts as a "matchmaker" between students who need tutoring, and those who can offer it within the same university. As a web developer intern, I helped develop CDN injections in JavaScript for tasks such as rendering pages, error checking forms, and streamlining state representation processes. My work also included creating backend functions in Python to automate features like email campaigns. 
 
 -> C++ Node Basics
 
