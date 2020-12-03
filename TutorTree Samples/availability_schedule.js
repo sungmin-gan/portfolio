@@ -1,4 +1,13 @@
+/** This program creates a schedule, Monday through Sunday, 0000 - 2400, 
+for tutors to indicate their available time slots. Each unique combination 
+of time slots, per day, is represented by a 48-bit binary number (24 hours/day, 
+each bit represents a 30-minute time slot), which is converted into an integer 
+for state storage. When rendering the state from the database, the integer is 
+converted back into binary and the "available" time slots are appropriately
+stylized to indicate their state. **/
+
 //Initialize DB, temp references & data stores, event listeners
+//Assumes configs are loaded
 const db = firebase.firestore();
 const userRef = db.collection("dummy_users").doc('O06194XMC4v50mFdOXQK');
 
